@@ -1,0 +1,383 @@
+model,price,instalment,mileage,num_of_owners,depreciation,reg_date,coe_left,coe_left_yrs,coe_left_mths,coe_months,source
+BMW ALPINA B3 Bi-Turbo,183888,2380,84513,2,29600,11 Nov 16 ,4yrs 2mths left,4,2,50,Carro
+Audi A6 1.8A TFSI Ultra,113888,1477,77285,1,18490,28 Aug 17 ,4yrs 11mths left,4,11,59,Carro
+Audi A4 1.8A TFSI MU (COE till 02/2031),88888,719,100173,2,10470,28 Feb 11 ,8yrs 5mths left,8,5,101,Carro
+Audi A3 Sedan 1.0A TFSI S-tronic,114888,1084,36099,1,14660,24 Sep 19 ,7yrs left,7,0,84,Carro
+Audi A3 Sportback 1.0A TFSI S-tronic,91888,1106,69019,1,14740,12 Jan 18 ,5yrs 4mths left,5,4,64,Carro
+Audi A4 2.0A TFSI S-tronic,141888,1172,46751,1,17790,19 Jul 19 ,6yrs 10mths left,6,10,82,Carro
+Audi Q5 2.0A TFSI Quattro,112888,1771,64401,1,22560,16 Sep 16 ,4yrs left,4,0,48,Carro
+Audi A7 Sportback 2.0A TFSI S-tronic,140888,1824,52145,1,24490,29 Nov 16 ,4yrs 2mths left,4,2,50,Carro
+Audi A4 1.4A TFSI S-tronic,97888,1354,69486,3,18170,28 Apr 17 ,4yrs 7mths left,4,7,55,Carro
+Audi A4 1.4A TFSI S-tronic,106888,1344,60629,1,18250,17 Oct 17 ,5yrs 1mths left,5,1,61,Carro
+Audi A3 1.4A TFSI CoD S-tronic,115088,1201,57453,1,16250,27 Dec 18 ,6yrs 3mths left,6,3,75,Carro
+Audi A3 Sedan 1.4A TFSI Ambiente,63888,1279,62911,3,16990,30 Oct 15 ,3yrs 1mths left,3,1,37,Carro
+Audi A4 2.0A TFSI S-tronic,127888,1420,42000,1,18540,11 Jul 18 ,5yrs 10mths left,5,10,70,Carro
+Audi A3 Sportback 1.0A TFSI S-tronic,92888,1103,109322,1,14740,06 Feb 18 ,5yrs 5mths left,5,5,65,Carro
+Audi A3 Sedan 1.4A TFSI S-tronic Attraction,72888,1143,107521,3,15820,28 Sep 16 ,4yrs left,4,0,48,Carro
+Audi S5 Coupe 3.0A TFSI,260888,2279,53998,3,33240,28 Feb 19 ,6yrs 5mths left,6,5,77,Carro
+Audi Q3 1.4A TFSI S-Tronic,67688,1555,150030,2,20410,29 May 15 ,2yrs 8mths left,2,8,32,Carro
+Audi A4 2.0A TFSI Quattro S-tronic (COE till 02/2031),96888,784,253869,5,11410,21 Mar 11 ,8yrs 5mths left,8,5,101,Carro
+Audi A3 Sportback 1.8A TFSI (COE till 06/2031),99888,942,114740,4,11320,16 Apr 10 ,8yrs 9mths left,8,9,105,Carro
+Audi A3 Sportback 1.4A TFSI CoD S-tronic,151888,1433,12000,1,17360,18 Sep 20 ,8yrs left,8,0,96,Carro
+Audi TT RS Coupe 2.5A TFSI Quattro (COE till 10/2031),182888,1479,71060,7,19960,30 Dec 11 ,9yrs 1mths left,9,1,109,Carro
+Audi A6 2.0A TFSI MU (COE till 04/2031),97888,792,137723,4,11310,29 Apr 11 ,8yrs 7mths left,8,7,103,Carro
+Audi A6 1.8A TFSI Ultra,100888,1524,78996,2,18670,30 Nov 16 ,4yrs 2mths left,4,2,50,Carro
+Audi Q5 2.0A TFSI Quattro,105888,1661,102275,3,20850,14 Sep 16 ,4yrs left,4,0,48,Carro
+Audi A3 1.4A TFSI CoD S-tronic,150888,1423,28802,1,17280,11 Sep 20 ,8yrs left,8,0,96,Carro
+Bentley Continental GT 4.0A V8,328888,2659,45077,3,25550,15 Aug 12 ,9yrs 1mths left,9,1,109,Carro
+BMW 2 Series 216d Active Tourer,77888,1222,132576,2,16690,28 Sep 16 ,4yrs left,4,0,48,Carro
+BMW 1 Series 116d,75888,1067,126372,3,15270,31 Mar 17 ,4yrs 6mths left,4,6,54,Carro
+BMW 3 Series 320i Efficient Dynamics,69388,1643,110945,2,20950,30 Apr 15 ,2yrs 7mths left,2,7,31,Carro
+BMW 1 Series 116i Sportline,150888,1220,16626,1,15130,24 Jun 21 ,8yrs 9mths left,8,9,105,Carro
+BMW 5 Series 520i,42888,5051,209699,2,26808,29 Mar 13 ,6mths left,0,6,6,Carro
+BMW 1 Series 116i Sportline,148888,1204,11622,1,14930,17 Jun 21 ,8yrs 9mths left,8,9,105,Carro
+BMW 5 Series 520i Mild Hybrid Executive,239888,1939,14413,1,23020,24 Sep 21 ,9yrs left,9,0,108,Carro
+BMW X1 sDrive18i xLine,164888,1333,29801,1,17090,18 Dec 20 ,8yrs 3mths left,8,3,99,Carro
+BMW 2 Series 218i Active Tourer,52888,1335,109222,3,17310,27 Feb 15 ,2yrs 5mths left,2,5,29,Carro
+BMW X3 sDrive20i,90888,1820,149764,3,22430,29 Oct 15 ,3yrs 1mths left,3,1,37,Carro
+BMW 5 Series 520i,202888,1640,25057,1,21430,29 Jul 20 ,7yrs 10mths left,7,10,94,Carro
+BMW 1 Series 116d,78888,1056,60603,2,15010,28 Jun 17 ,4yrs 9mths left,4,9,57,Carro
+BMW 3 Series 318i Highline,191888,1552,13865,1,18540,30 Aug 21 ,8yrs 11mths left,8,11,107,Carro
+BMW 4 Series 440i Coupe M-Sport,182888,2098,91669,2,30640,03 Jul 17 ,4yrs 9mths left,4,9,57,Carro
+BMW 1 Series 116i Sportline,155888,1261,8760,1,14890,24 Dec 21 ,9yrs 3mths left,9,3,111,Carro
+BMW 4 Series 428i Coupe Sunroof,88888,2402,114390,3,25910,02 Jan 15 ,2yrs 3mths left,2,3,27,Carro
+BMW 3 Series Plug-in Hybrid 330e,172888,1584,43584,2,23680,08 Oct 18 ,6yrs 1mths left,6,1,73,Carro
+BMW 3 Series 320i M-Sport,93888,1597,66449,3,20530,13 May 16 ,3yrs 8mths left,3,8,44,Carro
+BMW X5 xDrive35i 7-Seater Sunroof (COE till 05/2031),118888,961,160189,5,13600,24 Aug 11 ,8yrs 8mths left,8,8,104,Carro
+BMW Z4 sDrive23i (COE till 09/2030),97888,792,154015,5,12120,29 Nov 10 ,8yrs left,8,0,96,Carro
+BMW 3 Series 328i (COE till 05/2031),117888,953,154633,6,13480,04 May 12 ,8yrs 8mths left,8,8,104,Carro
+BMW 7 Series 730Li,110888,2894,171000,2,24930,07 Jan 15 ,2yrs 4mths left,2,4,28,Carro
+BMW 5 Series 520i,96888,1648,156650,3,19510,20 May 16 ,3yrs 8mths left,3,8,44,Carro
+BMW 1 Series 116i Sportline,149888,1212,10350,1,14940,08 Jul 21 ,8yrs 10mths left,8,10,106,Carro
+Honda Civic 1.5A VTEC Turbo Sunroof,100888,1181,142112,2,15730,06 Mar 18 ,5yrs 6mths left,5,6,66,Carro
+Honda Shuttle 1.5A G Honda Sensing,107888,1018,15590,1,11820,16 Jul 21 ,8yrs 10mths left,8,10,106,Carro
+Honda Civic 1.3A (COE till 08/2029),64888,531,268026,4,9280,02 Oct 09 ,6yrs 11mths left,6,11,83,Carro
+Honda City 1.5A SV,78888,924,66893,3,12700,16 Mar 18 ,5yrs 6mths left,5,6,66,Carro
+Honda Civic 1.6A VTi,105888,1021,36145,1,13990,08 Jul 19 ,6yrs 10mths left,6,10,82,Carro
+Honda Civic 1.6A VTi,71888,1106,78810,2,15080,18 Oct 16 ,4yrs 1mths left,4,1,49,Carro
+Honda Civic 1.6A VTi,72888,1101,92946,3,14810,30 Nov 16 ,4yrs 2mths left,4,2,50,Carro
+Honda Odyssey 2.4A EXV-S Sunroof,102888,1498,99001,1,19050,25 Jan 17 ,4yrs 4mths left,4,4,52,Carro
+Honda Civic 1.6A VTi,74888,1091,69020,1,14800,11 Jan 17 ,4yrs 4mths left,4,4,52,Carro
+Honda Jazz 1.5A,56888,948,110765,2,13430,21 Jun 16 ,3yrs 9mths left,3,9,45,Carro
+Honda Fit 1.3A G (COE till 12/2028),58888,615,209498,5,9390,12 Dec 08 ,6yrs 3mths left,6,3,75,Carro
+Honda Civic 1.6A VTi,85888,979,119962,1,13330,18 May 18 ,5yrs 8mths left,5,8,68,Carro
+Honda HR-V 1.5A DX,100888,972,52147,1,13190,18 Jul 19 ,6yrs 10mths left,6,10,82,Carro
+Honda Civic 1.6A VTi,91888,982,98393,1,13360,08 Oct 18 ,6yrs 1mths left,6,1,73,Carro
+Honda Odyssey 2.4A EXV-S Sunroof,127388,1396,87086,1,18450,15 Aug 18 ,5yrs 11mths left,5,11,71,Carro
+Honda Jazz 1.3A (COE till 02/2032),88888,839,111305,2,9420,08 Feb 12 ,9yrs 5mths left,9,5,113,Carro
+Honda Civic 1.6A VTi,95888,1025,43884,1,14000,10 Oct 18 ,6yrs 1mths left,6,1,73,Carro
+Honda Fit 1.3A,92888,876,14812,1,10890,26 Oct 20 ,8yrs 1mths left,8,1,97,Carro
+Honda Odyssey 2.4A EX-S,120888,1396,65295,1,18730,02 May 18 ,5yrs 7mths left,5,7,67,Carro
+Honda Shuttle 1.5A G Honda Sensing,110888,1046,18172,1,12000,16 Sep 21 ,9yrs left,9,0,108,Carro
+Honda Civic 1.6A VTi (OPC),117888,1112,5100,1,12650,16 Mar 21 ,8yrs 6mths left,8,6,102,Carro
+Honda Civic 1.6A VTi-S,60888,1133,101390,1,14870,11 Jan 16 ,3yrs 4mths left,3,4,40,Carro
+Honda HR-V 1.5A DX,101888,961,80000,2,12460,14 Jan 20 ,7yrs 4mths left,7,4,88,Carro
+Honda Shuttle 1.5A G Honda Sensing,104888,990,24000,1,11680,12 May 21 ,8yrs 8mths left,8,8,104,Carro
+Hyundai Avante 1.6A (COE till 09/2024),18888,572,137774,2,9130,30 Sep 09 ,2yrs left,2,0,24,Carro
+Hyundai Avante 1.6A S (OPC),110888,1046,8042,1,11680,13 Dec 21 ,9yrs 3mths left,9,3,111,Carro
+Hyundai Elantra 1.6A (COE till 07/2026),44888,733,131169,2,11490,13 Sep 11 ,3yrs 10mths left,3,10,46,Carro
+Hyundai Avante 1.6A GLS S,96888,914,25341,1,12040,07 Feb 20 ,7yrs 5mths left,7,5,89,Carro
+Hyundai Tucson 1.6A GLS T-GDi DCT Turbo,127888,1206,33272,2,16170,13 Nov 19 ,7yrs 2mths left,7,2,86,Carro
+Hyundai Elantra 1.6A GLS,65888,960,90000,1,12960,27 Jan 17 ,4yrs 4mths left,4,4,52,Carro
+Hyundai Elantra 1.6A GLS,75588,818,95796,2,11510,13 Sep 18 ,6yrs left,6,0,72,Carro
+Hyundai Tucson 1.6A GLS T-GDi DCT Turbo S,132888,1254,60147,1,16690,21 Jan 20 ,7yrs 4mths left,7,4,88,Carro
+Hyundai Avante 1.6A S,113888,1074,16685,1,12630,30 Jun 21 ,8yrs 9mths left,8,9,105,Carro
+Hyundai Avante 1.6A GLS,87888,829,205185,3,11300,20 Nov 19 ,7yrs 2mths left,7,2,86,Carro
+Hyundai Avante 1.6A GLS,87888,876,59948,2,12210,11 Apr 19 ,6yrs 7mths left,6,7,79,Carro
+Hyundai Elantra 1.6A GLS,80888,854,82038,2,12070,08 Nov 18 ,6yrs 2mths left,6,2,74,Carro
+Hyundai Accent 1.4A (OPC),64888,669,24248,1,9550,09 Jan 19 ,6yrs 4mths left,6,4,76,Carro
+Hyundai Avante 1.6A Elite Sunroof,128888,1042,7000,1,13420,27 Dec 21 ,9yrs 3mths left,9,3,111,Carro
+Hyundai Avante 1.6A GLS S,102888,971,21000,1,11950,25 Aug 20 ,7yrs 11mths left,7,11,95,Carro
+Hyundai Elantra 1.6A GLS S (OPC),65888,805,23800,1,11340,16 Dec 17 ,5yrs 3mths left,5,3,63,Carro
+Hyundai Tucson 1.6A GLS T-GDi DCT Turbo,103888,1111,118355,1,15290,25 Oct 18 ,6yrs 1mths left,6,1,73,Carro
+Hyundai Accent 1.4A (OPC),7888,1390,185446,2,1571,22 Jan 08 ,4mths left,0,4,4,Carro
+Hyundai Elantra 1.6A,26888,1206,209249,4,14870,16 Jan 14 ,1yrs 4mths left,1,4,16,Carro
+Hyundai Accent 1.4A (Off-Peak Car),69888,681,14342,1,9630,19 Jun 19 ,6yrs 9mths left,6,9,81,Carro
+Hyundai Veloster 1.6A,54888,1021,167885,1,13620,27 Jan 16 ,3yrs 4mths left,3,4,40,Carro
+Hyundai Kona Electric 39.2kWh Sunroof,155888,1261,7542,1,17620,19 May 21 ,8yrs 8mths left,8,8,104,Carro
+Hyundai Elantra 1.6A GLS,68388,873,36607,1,12400,06 Sep 17 ,5yrs left,5,0,60,Carro
+Hyundai Elantra 1.6A GLS (OPC),63888,709,43748,1,9960,20 Jul 18 ,5yrs 10mths left,5,10,70,Carro
+Jeep Wrangler Unlimited Sahara,260888,2109,7167,1,27080,08 Jun 21 ,8yrs 9mths left,8,9,105,Carro
+Jeep Renegade Limited 1.4A,93388,986,50888,1,12710,30 Nov 18 ,6yrs 2mths left,6,2,74,Carro
+Kia Cerato 1.6A EX,86888,866,66640,1,12000,24 Apr 19 ,6yrs 7mths left,6,7,79,Carro
+Kia Cerato K3 1.6A,75388,883,42975,1,12490,02 Apr 18 ,5yrs 6mths left,5,6,66,Carro
+Kia Cerato 1.6A LX (OPC),92888,876,21660,1,10420,12 Jan 21 ,8yrs 4mths left,8,4,100,Carro
+Kia Cerato Forte 1.6M EX (COE till 04/2029),53888,537,236606,3,8090,28 Jul 09 ,6yrs 7mths left,6,7,79,Carro
+Kia Cerato K3 1.6A,53888,845,387439,1,11590,15 Sep 16 ,4yrs left,4,0,48,Carro
+Kia Stinger 2.0A Sunroof,172888,1398,43141,1,19400,22 Jul 20 ,7yrs 10mths left,7,10,94,Carro
+Kia Sorento Diesel 2.2A CRDi Sunroof,100888,1269,137348,2,16490,31 Oct 17 ,5yrs 1mths left,5,1,61,Carro
+Kia Soul 1.6A (COE till 12/2030),82888,782,81677,2,10010,15 Dec 10 ,8yrs 3mths left,8,3,99,Carro
+Kia Seltos 1.4A EX,118888,1122,15465,1,13190,14 Jan 21 ,8yrs 4mths left,8,4,100,Carro
+Kia Cerato 1.6A EX (OPC),87888,829,17000,1,9930,16 Oct 20 ,8yrs 1mths left,8,1,97,Carro
+Kia Cerato 1.6A EX,114888,1084,18551,1,12090,28 Jul 21 ,8yrs 10mths left,8,10,106,Carro
+Kia Sorento 2.4A SX Sunroof,169888,1374,49875,1,19500,21 Jul 20 ,7yrs 10mths left,7,10,94,Carro
+Kia Cerato 1.6A,57888,590,34448,1,8930,27 Feb 09 ,6yrs 5mths left,6,5,77,Carro
+Kia Cerato 1.6A LX,87888,829,23250,1,10960,25 Feb 20 ,7yrs 5mths left,7,5,89,Carro
+Kia Cerato 1.6A LX,77888,759,185000,2,10550,26 Jun 19 ,6yrs 9mths left,6,9,81,Carro
+Kia Soul 1.6A,73888,697,263692,3,9170,23 Sep 10 ,8yrs left,8,0,96,Carro
+Kia Cerato K3 1.6A,67888,841,23266,1,11810,21 Nov 17 ,5yrs 2mths left,5,2,62,Carro
+Kia Sorento Diesel 2.2A CRDi Sunroof,91888,1271,132507,1,15460,24 Apr 17 ,4yrs 7mths left,4,7,55,Carro
+Kia Cerato Forte Koup 1.6M SX Sunroof (COE till 03/2025),30888,755,96538,4,12020,28 Feb 11 ,2yrs 6mths left,2,6,30,Carro
+Kia Cerato 1.6A LX,75888,822,65253,1,11680,10 Sep 18 ,6yrs left,6,0,72,Carro
+Kia Sorento 2.4A SX,62388,1434,100961,2,16210,29 May 15 ,2yrs 8mths left,2,8,32,Carro
+Kia Cerato Forte 1.6M SX,8388,0,173340,2,5793,19 Apr 12 ,4mths left,0,4,4,Carro
+Kia Cerato Forte 1.6A SX,26388,607,139599,2,9670,20 Jan 10 ,2yrs 4mths left,2,4,28,Carro
+Kia Niro Hybrid 1.6A GDi DCT Sunroof,77888,995,16574,1,15010,12 May 17 ,4yrs 8mths left,4,8,56,Carro
+Land Rover Range Rover Evoque 2.0A 5DR,127888,1542,138162,3,21580,30 Mar 17 ,4yrs 6mths left,4,6,54,Carro
+Land Rover Defender 90,298888,2416,5116,2,30020,30 Jun 21 ,8yrs 9mths left,8,9,105,Carro
+Land Rover Discovery 2.0A Si4 HSE 7-Seater,230888,1867,11000,1,26060,18 Oct 19 ,7yrs 1mths left,7,1,85,Carro
+Land Rover Discovery Sport Diesel 2.0A SE,112888,1588,112995,2,19390,23 Mar 17 ,4yrs 6mths left,4,6,54,Carro
+Land Rover Discovery Sport 2.0A Si4 HSE 7-Seater Sunroof,108888,1742,74312,1,19610,30 Aug 16 ,3yrs 11mths left,3,11,47,Carro
+Land Rover Range Rover Evoque 2.0A 5DR Sunroof,124888,1712,53502,1,20680,15 Apr 16 ,3yrs 7mths left,3,7,43,Carro
+Land Rover Range Rover Evoque 2.0A 5DR,96888,2162,76894,1,21920,27 Feb 15 ,2yrs 5mths left,2,5,29,Carro
+Land Rover Range Rover Velar 2.0A Si4 R-Dynamic Sunroof,218888,1828,36409,1,24950,22 Nov 18 ,6yrs 2mths left,6,2,74,Carro
+Land Rover Evoque Convertible 2.0 Si4,193888,0,48700,2,0,22 Mar 18 ,5yrs 6mths left,5,6,66,Carro
+Lexus IS Turbo IS200t Executive,98888,1614,92647,2,19710,25 Jul 16 ,3yrs 10mths left,3,10,46,Carro
+Lexus ES250 Executive Sunroof,93888,1632,55253,2,20200,08 Apr 16 ,3yrs 7mths left,3,7,43,Carro
+Lexus ES250 Executive Sunroof,204888,1657,13727,1,20090,01 Sep 21 ,8yrs 11mths left,8,11,107,Carro
+Lexus IS Turbo IS300 Executive,158388,1308,45484,1,19720,09 Jul 19 ,6yrs 10mths left,6,10,82,Carro
+Lexus RX450h Hybrid (COE till 09/2029),86888,703,207640,6,12280,20 Jan 10 ,7yrs left,7,0,84,Carro
+Lexus NX Hybrid NX300h Luxury,87888,2019,130209,2,23410,29 May 15 ,2yrs 8mths left,2,8,32,Carro
+Lexus ES250 Executive Sunroof,121888,1510,131164,1,19290,21 Nov 17 ,5yrs 2mths left,5,2,62,Carro
+Lexus ES250 Sunroof,73888,1649,216383,3,19060,26 Jun 15 ,2yrs 9mths left,2,9,33,Carro
+Lexus UX200 Executive,169888,1374,7664,1,17580,26 Feb 21 ,8yrs 5mths left,8,5,101,Carro
+Lexus ES250 Sunroof,91888,1531,64368,1,18610,27 Feb 16 ,3yrs 5mths left,3,5,41,Carro
+Lexus RX Turbo RX200t Executive,125688,2051,68033,1,24490,03 Mar 16 ,3yrs 5mths left,3,5,41,Carro
+Lexus LS460,54888,0,162443,3,47470,17 Apr 12 ,4mths left,0,4,4,Carro
+Lexus NX Turbo NX200t Executive,110888,1615,66000,3,19470,26 Aug 16 ,3yrs 11mths left,3,11,47,Carro
+Lexus ES250 Luxury Sunroof,88888,1545,94546,3,17530,30 Nov 15 ,3yrs 2mths left,3,2,38,Carro
+Lexus Gs250 Premium Auto,37888,26564,58938,1,27521,07 May 12 ,3mths left,0,3,3,Carro
+Lexus IS Turbo IS200t Executive,92588,1348,96037,1,16190,23 Jun 16 ,3yrs 9mths left,3,9,45,Carro
+Lexus NX Hybrid NX300h Executive,188888,1527,17863,1,17990,17 Dec 20 ,8yrs 3mths left,8,3,99,Carro
+Lexus NX Turbo NX200t Executive,118988,1831,131098,2,22690,23 Feb 16 ,3yrs 5mths left,3,5,41,Carro
+Lexus NX Turbo NX200t F Sport,93888,1597,107233,2,17530,16 Sep 15 ,3yrs left,3,0,36,Carro
+Lexus RX Turbo RX200t Luxury Sunroof,125888,1660,119266,2,21540,17 Feb 16 ,3yrs 5mths left,3,5,41,Carro
+Lexus IS Turbo IS200t Executive,93888,1321,104552,1,15680,16 Sep 16 ,4yrs left,4,0,48,Carro
+Lexus NX Turbo NX200t Luxury Sunroof,100888,1614,133943,1,18250,23 Dec 15 ,3yrs 3mths left,3,3,39,Carro
+Lexus IS Turbo IS200t Executive,116667,1204,70176,1,17400,31 Mar 17 ,4yrs 6mths left,4,6,54,Carro
+Lexus IS Turbo IS200t Executive,150400,1574,69588,1,24200,12 Jul 17 ,4yrs 10mths left,4,10,58,Carro
+Mazda MX-5 Roadster 2.0A RHT (COE till 10/2029),126888,1197,109211,6,17720,07 Nov 09 ,7yrs 1mths left,7,1,85,Carro
+Mazda 3 1.5A,84888,897,49132,1,12490,21 Nov 18 ,6yrs 2mths left,6,2,74,Carro
+Mazda CX-3 2.0A Standard,92888,905,54277,2,12360,28 Jun 19 ,6yrs 9mths left,6,9,81,Carro
+Mazda 3 1.5A,53588,932,65865,3,13150,29 Apr 16 ,3yrs 7mths left,3,7,43,Carro
+Mazda 3 1.5A,75888,877,134234,2,12160,30 Apr 18 ,5yrs 7mths left,5,7,67,Carro
+Mazda 6 2.0A,60888,1251,132674,3,16520,23 Sep 15 ,3yrs left,3,0,36,Carro
+Mazda 3 1.5A Sunroof,74888,986,207962,2,14470,05 Jul 17 ,4yrs 9mths left,4,9,57,Carro
+Mazda 6 2.0A,47888,1101,120127,3,16220,18 May 15 ,2yrs 8mths left,2,8,32,Carro
+Mazda 3 HB 1.5A Deluxe Sunroof,85588,963,61310,2,13260,21 Jun 18 ,5yrs 9mths left,5,9,69,Carro
+Mazda CX-3 2.0A,89888,973,57515,1,13460,19 Sep 18 ,6yrs left,6,0,72,Carro
+Mazda 6 2.5A Sunroof,61888,1239,217208,3,15640,02 Nov 15 ,3yrs 1mths left,3,1,37,Carro
+Mazda 3 Mild Hybrid 1.5A Elegance,116388,1098,20584,1,13290,22 Oct 20 ,8yrs 1mths left,8,1,97,Carro
+Mazda 6 2.0A,101888,1051,61914,1,14420,29 Jan 19 ,6yrs 4mths left,6,4,76,Carro
+Mazda 3 Mild Hybrid 1.5A Elegance,125888,1018,16688,1,13240,28 Oct 21 ,9yrs 1mths left,9,1,109,Carro
+Mazda 5 2.0A Sunroof,73888,1039,82000,1,14090,24 Mar 17 ,4yrs 6mths left,4,6,54,Carro
+Mazda 3 1.5A Deluxe,60888,994,94127,2,14020,14 Jul 16 ,3yrs 10mths left,3,10,46,Carro
+Mazda 3 Mild Hybrid 1.5A Classic,104888,990,57728,1,12500,04 Aug 20 ,7yrs 10mths left,7,10,94,Carro
+Mazda 3 Mild Hybrid 1.5A Classic,122888,1159,5743,1,12880,04 Jan 22 ,9yrs 3mths left,9,3,111,Carro
+Mazda 3 HB 1.5A Deluxe,49888,951,119250,2,13570,18 Dec 15 ,3yrs 3mths left,3,3,39,Carro
+Mazda 3 1.5A,66888,867,107845,4,12430,29 Aug 17 ,4yrs 11mths left,4,11,59,Carro
+Mazda 2 HB 1.5A,83588,824,29229,1,11360,22 May 19 ,6yrs 8mths left,6,8,80,Carro
+Mazda 6 2.5A Sunroof,64888,1236,171057,3,15430,24 Dec 15 ,3yrs 3mths left,3,3,39,Carro
+Mazda CX-8 2.5A Elegance 7 Seater,184888,1495,15800,1,18960,30 Jun 21 ,8yrs 9mths left,8,9,105,Carro
+Mazda 6 2.5A Sunroof,63888,1161,140958,1,14060,26 Feb 16 ,3yrs 5mths left,3,5,41,Carro
+Mercedes-Benz E-Class E200 AMG Edition E,110888,1847,49529,2,20560,16 Jun 16 ,3yrs 9mths left,3,9,45,Carro
+Mercedes-Benz C-Class C200 Edition C,58888,2641,69140,2,24570,15 Jan 14 ,1yrs 4mths left,1,4,16,Carro
+Mercedes-Benz GLB-Class GLB250 4MATIC 7-Seater,287888,2327,13902,1,29320,25 Aug 21 ,8yrs 11mths left,8,11,107,Carro
+Mercedes-Benz SLK-Class SLK200K (COE till 01/2030),92888,751,126894,3,12530,08 Feb 10 ,7yrs 4mths left,7,4,88,Carro
+Mercedes-Benz CLA-Class CLA200 Shooting Brake Urban,110888,1508,64790,1,19890,12 May 17 ,4yrs 8mths left,4,8,56,Carro
+Mercedes-Benz A-Class A200 AMG Line Premium,173888,1406,17842,1,17410,24 Sep 21 ,9yrs left,9,0,108,Carro
+Mercedes-Benz B-Class B180 Style,65888,1255,137487,3,16600,09 Dec 15 ,3yrs 3mths left,3,3,39,Carro
+Mercedes-Benz A-Class A180 Style,74888,1198,76731,4,16410,25 Aug 16 ,3yrs 11mths left,3,11,47,Carro
+Mercedes-Benz R-Class R350L (COE till 12/2028),78888,706,179309,5,12460,09 Feb 09 ,6yrs 3mths left,6,3,75,Carro
+Mercedes-Benz GLA-Class GLA200,150888,1303,48510,2,19460,06 Mar 19 ,6yrs 6mths left,6,6,78,Carro
+Mercedes-Benz CLA-Class CLA180 Progressive,198888,1608,13520,1,19420,16 Dec 21 ,9yrs 3mths left,9,3,111,Carro
+Mercedes-Benz A-Class Saloon A200 Progressive,176888,1430,42413,2,21840,29 Nov 19 ,7yrs 2mths left,7,2,86,Carro
+Mercedes-Benz CLA-Class CLA180 AMG Line,182888,1479,32888,1,19790,24 Oct 20 ,8yrs 1mths left,8,1,97,Carro
+Mercedes-Benz CLA-Class CLA180 Shooting Brake Urban,122888,1382,69657,1,17970,26 Jun 18 ,5yrs 9mths left,5,9,69,Carro
+Mercedes-Benz CLA-Class CLA200 Urban,110888,1460,43316,3,19620,27 Jul 17 ,4yrs 10mths left,4,10,58,Carro
+Mercedes-Benz GLB-Class GLB35 AMG 4MATIC 7-Seater,265888,2150,26872,1,27840,26 Mar 21 ,8yrs 6mths left,8,6,102,Carro
+Mercedes-Benz CLA-Class CLA180 Progressive,182888,1479,34844,1,20210,09 Oct 20 ,8yrs 1mths left,8,1,97,Carro
+Mercedes-Benz C-Class C200 Avantgarde,170888,1382,80125,1,20520,18 Sep 19 ,7yrs left,7,0,84,Carro
+Mercedes-Benz CLA-Class CLA200 AMG Line,203888,1648,1643,1,19560,27 Dec 21 ,9yrs 3mths left,9,3,111,Carro
+Mercedes-Benz C-Class C180 Coupe,212888,1721,30625,1,22620,04 Jan 21 ,8yrs 3mths left,8,3,99,Carro
+Mercedes-Benz C-Class C200 Avantgarde,72888,1903,162606,3,23710,28 Jan 15 ,2yrs 4mths left,2,4,28,Carro
+Mercedes-Benz A-Class A200 (COE till 04/2032),115888,937,133360,4,11140,18 Apr 13 ,9yrs 7mths left,9,7,115,Carro
+Mercedes-Benz GLA-Class GLA180 Urban Edition,145888,1376,27198,1,17440,25 Mar 20 ,7yrs 6mths left,7,6,90,Carro
+Mercedes-Benz C-Class C180 Avantgarde,122888,1593,61000,1,20350,18 Aug 17 ,4yrs 11mths left,4,11,59,Carro
+Mitsubishi Attrage 1.2A,66888,690,112781,1,10070,25 Jan 19 ,6yrs 4mths left,6,4,76,Carro
+Mitsubishi Attrage 1.2A,87888,829,37589,1,10210,15 Jan 21 ,8yrs 4mths left,8,4,100,Carro
+Mitsubishi Lancer EX 1.6A,49888,951,155026,3,13410,14 Dec 15 ,3yrs 3mths left,3,3,39,Carro
+Mitsubishi Attrage 1.2A,98888,933,12881,1,10260,26 Jan 22 ,9yrs 4mths left,9,4,112,Carro
+Mitsubishi Attrage 1.2A (OPC),64888,669,20000,1,9740,30 Jan 19 ,6yrs 4mths left,6,4,76,Carro
+Mitsubishi Lancer 1.6A GLX (COE till 12/2029),64888,612,299544,3,8910,16 Dec 09 ,7yrs 3mths left,7,3,87,Carro
+Mitsubishi Lancer 1.6M (COE till 02/2023),8888,1255,301822,2,1990,19 Mar 08 ,5mths left,0,5,5,Carro
+Mitsubishi Outlander 2.0A,172369,1626,18512,1,18360,28 Jul 21 ,8yrs 10mths left,8,10,106,Carro
+Mitsubishi Outlander 2.0A,106888,1019,68626,1,13900,14 May 19 ,6yrs 8mths left,6,8,80,Carro
+Mitsubishi i,388,0,176655,3,0,04 Jul 07 ,4mths left,0,4,4,Carro
+Mitsubishi Attrage 1.2A (Off-Peak Car),68412,660,12941,1,9520,05 Apr 19 ,6yrs 6mths left,6,6,78,Carro
+Mitsubishi Outlander 2.4A,78888,1007,53978,2,13490,25 May 17 ,4yrs 8mths left,4,8,56,Carro
+Mitsubishi Lancer 1.6M GLX,2388,839,236126,4,843,25 Jun 07 ,2mths left,0,2,2,Carro
+Mitsubishi Attrage 1.2A,68888,650,68001,1,9200,25 Jul 19 ,6yrs 10mths left,6,10,82,Carro
+Mitsubishi Outlander 2.4A Sunroof,72888,1062,42597,1,13680,20 Sep 16 ,4yrs left,4,0,48,Carro
+Mitsubishi Outlander 2.4A Sunroof,63888,1022,167000,2,13350,26 Apr 16 ,3yrs 7mths left,3,7,43,Carro
+Mitsubishi Space Star 1.2A,55088,604,80294,2,8760,30 Apr 18 ,5yrs 7mths left,5,7,67,Carro
+Mitsubishi Eclipse Cross 1.5A Sunroof,109288,1031,20978,2,13300,06 Jun 19 ,6yrs 9mths left,6,9,81,Carro
+Mitsubishi Attrage 1.2A,73888,697,26073,1,8590,10 Sep 20 ,8yrs left,8,0,96,Carro
+Mitsubishi Attrage 1.2A Cvt,45388,608,103886,2,8900,03 Feb 17 ,4yrs 4mths left,4,4,52,Carro
+Mitsubishi Lancer 1.6 A,1488,0,132000,2,207,05 Apr 07 ,5mths left,0,5,5,Carro
+Mitsubishi Outlander 2.4A Sunroof,84126,1401,102500,1,19390,22 Jan 16 ,3yrs 4mths left,3,4,40,Carro
+Mitsubishi Attrage 1.2A Sports,60888,600,67427,1,8690,08 Jan 19 ,6yrs 4mths left,6,4,76,Carro
+Mitsubishi Attrage 1.2A,54888,602,65379,2,8800,26 Mar 18 ,5yrs 6mths left,5,6,66,Carro
+Nissan Note 1.2A,70388,709,55689,1,10350,25 Mar 19 ,6yrs 6mths left,6,6,78,Carro
+Nissan Sylphy 1.6A,91888,867,164323,1,11150,29 Feb 20 ,7yrs 5mths left,7,5,89,Carro
+Nissan Qashqai 1.2A DIG-T,76888,967,123249,2,13560,19 Oct 17 ,5yrs 1mths left,5,1,61,Carro
+Nissan Qashqai 1.2A DIG-T,55888,993,129423,2,13710,30 Mar 16 ,3yrs 6mths left,3,6,42,Carro
+Nissan Qashqai 2.0A,77888,1060,99756,2,14400,29 May 17 ,4yrs 8mths left,4,8,56,Carro
+Nissan Qashqai 1.2A DIG-T,52388,1049,61783,1,14460,24 Oct 15 ,3yrs 1mths left,3,1,37,Carro
+Nissan Qashqai 2.0A Premium Moonroof,71888,1047,89000,1,14260,11 Jan 17 ,4yrs 4mths left,4,4,52,Carro
+Nissan Juke 1.6A,62888,1093,52422,1,15050,15 Apr 16 ,3yrs 7mths left,3,7,43,Carro
+Nissan Qashqai 1.2A DIG-T,84888,1052,67464,1,14810,28 Nov 17 ,5yrs 2mths left,5,2,62,Carro
+Nissan Qashqai 1.2A DIG-T,88388,1049,40000,1,14320,21 Feb 18 ,5yrs 5mths left,5,5,65,Carro
+Nissan Qashqai 1.2A DIG-T,80888,988,91121,2,13780,29 Dec 17 ,5yrs 3mths left,5,3,63,Carro
+Nissan Sylphy 1.5A,20888,7334,397717,1,8980,22 Nov 12 ,2mths left,0,2,2,Carro
+Nissan Latio 1.5A Sports (COE till 11/2028),58888,622,41669,1,9470,21 Nov 08 ,6yrs 2mths left,6,2,74,Carro
+Nissan Note 1.2A (OPC),51888,784,40841,1,11740,18 Nov 16 ,4yrs 2mths left,4,2,50,Carro
+Nissan Teana 2.0A (COE till 12/2030),73888,598,138274,7,8870,17 Feb 11 ,8yrs 3mths left,8,3,99,Carro
+Nissan Juke 1.6A,53888,1169,100426,2,15530,30 Jul 15 ,2yrs 10mths left,2,10,34,Carro
+Nissan Qashqai 1.2A DIG-T,89888,1038,75021,1,14150,19 Apr 18 ,5yrs 7mths left,5,7,67,Carro
+Nissan X-Trail 2.0A 7-Seater Sunroof,90888,1022,77808,1,13550,07 Jun 18 ,5yrs 9mths left,5,9,69,Carro
+Nissan Qashqai 1.2A DIG - T,69888,1076,124015,2,15210,27 Oct 16 ,4yrs 1mths left,4,1,49,Carro
+Nissan Qashqai 1.2A DIG-T,78888,978,64210,1,13670,28 Nov 17 ,5yrs 2mths left,5,2,62,Carro
+Nissan X-Trail 2.0A Premium 7-Seater Sunroof,111872,1310,35005,1,17690,28 Mar 18 ,5yrs 6mths left,5,6,66,Carro
+Nissan Latio 1.5A Sports (COE till 09/2024),18888,572,164897,4,9110,30 Oct 09 ,2yrs left,2,0,24,Carro
+Nissan Note 1.2A,60388,688,62509,2,10130,21 May 18 ,5yrs 8mths left,5,8,68,Carro
+Nissan Sylphy 1.6A,70555,1200,57660,1,16630,31 May 16 ,3yrs 8mths left,3,8,44,Carro
+Opel Astra Sports Tourer 1.0A,64888,816,107835,2,12030,31 Oct 17 ,5yrs 1mths left,5,1,61,Carro
+Opel Mokka X Diesel 1.6A,57888,788,208507,1,10720,08 May 17 ,4yrs 8mths left,4,8,56,Carro
+Opel Crossland 1.2A X Turbo,70888,819,124560,2,10700,12 Apr 18 ,5yrs 7mths left,5,7,67,Carro
+Opel Astra 1.4A Turbo,127850,1206,29568,1,15030,21 Sep 20 ,8yrs left,8,0,96,Carro
+Opel Astra 1.0A Turbo (Off-Peak Car),59842,753,26000,1,11130,07 Jun 17 ,4yrs 9mths left,4,9,57,Carro
+Opel Astra 1.4A Turbo Innovation,82888,782,52094,1,8870,21 Oct 20 ,8yrs 1mths left,8,1,97,Carro
+Opel Adam 1.4A,53888,678,74332,3,9810,26 May 17 ,4yrs 8mths left,4,8,56,Carro
+Opel Astra GTC 1.4A,59888,712,108231,1,8480,18 Jul 17 ,4yrs 10mths left,4,10,58,Carro
+Opel Astra Sports Tourer 1.0A (2017),82800,0,5100,1,0,27 Dec 17 ,5yrs 3mths left,5,3,63,Carro
+Perodua Axia 1.0 Advance (Off-Peak Cars),32888,488,55627,2,6770,13 Jul 16 ,3yrs 10mths left,3,10,46,Carro
+Porsche Macan 2.0A PDK,161888,2522,86801,1,33790,19 Feb 16 ,3yrs 5mths left,3,5,41,Carro
+Porsche 911 Carrera S Coupe 3.0A PDK,645888,5221,11102,1,61520,06 May 21 ,8yrs 8mths left,8,8,104,Carro
+Porsche Cayman S PDK 3.4M (COE till 04/2030),189888,1535,86400,2,24930,16 Apr 10 ,7yrs 7mths left,7,7,91,Carro
+Porsche Cayenne Diesel 3.0A Tip,148888,3221,136407,4,34960,13 Feb 15 ,2yrs 5mths left,2,5,29,Carro
+Porsche Macan Turbo 3.6A PDK,240888,4889,28000,1,61270,10 Apr 15 ,2yrs 7mths left,2,7,31,Carro
+Porsche Macan 2.0A PDK,142888,3188,90335,1,36540,12 Jun 15 ,2yrs 9mths left,2,9,33,Carro
+Porsche 911 Turbo Coupe 3.8A PDK,394888,3192,126655,5,47240,12 Jan 11 ,8yrs 4mths left,8,4,100,Carro
+Porsche Panamera S 4.8A PDK,133888,1143,109015,7,20110,14 May 10 ,6yrs 7mths left,6,7,79,Carro
+Porsche Panamera 3.6A PDK,162888,1317,173020,5,20170,14 Feb 11 ,8yrs left,8,0,96,Carro
+Porsche Cayenne S 4.8A Tip,152888,1236,85093,4,17490,31 May 11 ,8yrs 8mths left,8,8,104,Carro
+Porsche Macan 2.0A PDK,161888,2412,83119,2,32940,20 Nov 15 ,3yrs 2mths left,3,2,38,Carro
+Porsche Panamera 3.6A PDK,128000,1035,105645,3,16090,18 Apr 11 ,7yrs 1mths left,7,1,85,Carro
+Porsche Cayenne S 2.9A,414888,3354,26363,2,41520,09 May 19 ,6yrs 8mths left,6,8,80,Carro
+Porsche Macan GTS 3.0A PDK,303888,2852,17129,2,35650,27 Dec 17 ,5yrs 3mths left,5,3,63,Carro
+Porsche Macan S 3.0A,172888,0,102000,2,0,19 Dec 14 ,2yrs 3mths left,2,3,27,Carro
+Seat CUPRA Ateca 2.0A TSI,212888,1721,17332,1,23090,28 Oct 20 ,8yrs 1mths left,8,1,97,Carro
+SEAT Leon CUPRA 2.0A TSI DSG,162888,1933,107792,3,26040,02 Mar 18 ,5yrs 5mths left,5,5,65,Carro
+Mercedes-Benz GLB-Class GLB250 4MATIC 7-Seater,287888,2327,13902,1,29320,25 Aug 21 ,8yrs 11mths left,8,11,107,Carro
+SEAT Leon CUPRA 2.0A TSI DSG,192888,1560,18585,1,23940,03 Feb 20 ,7yrs 4mths left,7,4,88,Carro
+SEAT Ateca 1.4A TSI 150Fr,123888,1002,41258,2,14940,27 Nov 19 ,7yrs 2mths left,7,2,86,Carro
+BMW X5 xDrive35i 7-Seater Sunroof (COE till 05/2031),118888,961,160189,5,13600,24 Aug 11 ,8yrs 8mths left,8,8,104,Carro
+SEAT Leon 1.2A TSI Style,63888,947,102000,3,13850,09 Dec 16 ,4yrs 3mths left,4,3,51,Carro
+Mercedes-Benz GLB-Class GLB35 AMG 4MATIC 7-Seater,265888,2150,26872,1,27840,26 Mar 21 ,8yrs 6mths left,8,6,102,Carro
+Land Rover Discovery 2.0A Si4 HSE 7-Seater,230888,1867,11000,1,26060,18 Oct 19 ,7yrs 1mths left,7,1,85,Carro
+BMW X5 xDrive35i 7-Seater,158888,2019,159049,3,25530,13 Dec 16 ,4yrs 3mths left,4,3,51,Carro
+SEAT Leon 1.2A TSI Style,75888,969,94120,2,13780,28 Sep 17 ,5yrs left,5,0,60,Carro
+SEAT Leon Sport Tourer 1.0A TSI Style,117888,1112,17000,1,14290,24 Mar 20 ,7yrs 6mths left,7,6,90,Carro
+BMW X7 xDrive40i Pure Excellence 7-Seater,392888,3176,15965,2,40110,24 Jul 20 ,7yrs 10mths left,7,10,94,Carro
+Mazda CX-8 2.5A Elegance 7 Seater,184888,1495,15800,1,18960,30 Jun 21 ,8yrs 9mths left,8,9,105,Carro
+Seat CUPRA Ateca 2.0A TSI Sunroof,228888,1851,24000,1,23830,23 Mar 21 ,8yrs 6mths left,8,6,102,Carro
+Nissan X-Trail 2.0A 7-Seater Sunroof,90888,1022,77808,1,13550,07 Jun 18 ,5yrs 9mths left,5,9,69,Carro
+Nissan X-Trail 2.0A Premium 7-Seater Sunroof,111872,1310,35005,1,17690,28 Mar 18 ,5yrs 6mths left,5,6,66,Carro
+Land Rover Discovery Sport 2.0A Si4 HSE 7-Seater Sunroof,108888,1742,74312,1,19610,30 Aug 16 ,3yrs 11mths left,3,11,47,Carro
+Nissan X-Trail 2.0A 7-Seater Sunroof,59888,1169,75750,2,15060,29 Jul 15 ,2yrs 10mths left,2,10,34,Carro
+Toyota Alphard 2.5A X 8-Seater,205888,1665,49053,1,21270,22 Oct 20 ,8yrs 1mths left,8,1,97,Carro
+Nissan X-Trail 2.0A 7-Seater Sunroof,114888,1119,24305,1,16960,18 Jan 19 ,6yrs 4mths left,6,4,76,Carro
+Nissan X-Trail 2.0A 7-Seater Sunroof,60888,920,109726,2,11630,21 Jun 16 ,3yrs 9mths left,3,9,45,Carro
+Mazda CX-8 2.5A Luxury 6-Seater,221667,1792,13818,1,22050,07 May 21 ,8yrs 8mths left,8,8,104,Carro
+Nissan X -Trail 2.0A 7 - Seater Sunroof,63888,869,83225,1,11110,28 Jul 16 ,3yrs 10mths left,3,10,46,Carro
+Skoda Octavia Mild Hybrid 1.5A TSI e-TEC Ambition,145888,1180,18000,1,15530,12 Oct 21 ,9yrs 1mths left,9,1,109,Carro
+Skoda Octavia Mild Hybrid 1.5A TSI e-TEC Style,148888,1204,13759,1,15280,14 Jan 22 ,9yrs 4mths left,9,4,112,Carro
+Skoda Octavia Mild Hybrid 1.5 TSI e-TEC Style,140888,1139,15610,2,15260,13 Jul 21 ,8yrs 10mths left,8,10,106,Carro
+Skoda Kodiaq Ambition 1.5A TSI,193888,1568,11621,1,19650,17 Sep 21 ,9yrs left,9,0,108,Carro
+Skoda Karoq 1.5A TSI Style,170000,1604,32248,1,20950,30 Jan 20 ,7yrs 4mths left,7,4,88,Carro
+Skoda Octavia 1.4A TSI Ambition,94888,895,20622,1,10970,07 Feb 20 ,7yrs 5mths left,7,5,89,Carro
+Skoda Octavia 1.4A TSI Ambition Plus,88888,839,13943,1,10500,14 Aug 19 ,6yrs 11mths left,6,11,83,Carro
+Skoda Kodiaq 1.4A TSI Ambition Plus,120000,1209,55807,2,16020,31 Jul 18 ,5yrs 10mths left,5,10,70,Carro
+Skoda Octavia 1.4A TSI Ambition Plus,92000,868,29578,1,9810,06 Apr 20 ,7yrs 7mths left,7,7,91,Carro
+Skoda Kodiaq 2.0A TSI,135888,1099,16709,1,14250,16 Dec 19 ,7yrs 3mths left,7,3,87,Carro
+Tesla Model 3 Performance,244888,1980,4488,1,24070,16 Sep 21 ,9yrs left,9,0,108,Carro
+Toyota Harrier Turbo 2.0A G,127888,1233,108167,2,18450,19 Jun 18 ,5yrs 9mths left,5,9,69,Carro
+Toyota Vios 1.5A E,78888,795,199381,1,10950,29 Mar 19 ,6yrs 6mths left,6,6,78,Carro
+Toyota Harrier 2.0A Premium Panoramic Roof,97888,1331,64327,2,17190,12 May 17 ,4yrs 8mths left,4,8,56,Carro
+Toyota Wish 1.8A,60888,1251,121085,1,15780,30 Sep 15 ,3yrs left,3,0,36,Carro
+Toyota Harrier 2.0A Elegance Panoramic Roof,82888,1353,95463,1,17630,28 Jul 16 ,3yrs 10mths left,3,10,46,Carro
+Toyota Vios 1.5A E,81888,855,40841,2,11840,03 Jan 19 ,6yrs 3mths left,6,3,75,Carro
+Toyota Corolla Hybrid 1.8A Ascent Sport,127888,1034,19555,1,14170,18 Feb 21 ,8yrs 5mths left,8,5,101,Carro
+Toyota Estima 2.4A Aeras Premium Moonroof,123888,1513,80000,2,19370,19 Dec 17 ,5yrs 3mths left,5,3,63,Carro
+Toyota Rav4 2.0A Premium,158888,1285,14000,1,17050,29 Dec 20 ,8yrs 3mths left,8,3,99,Carro
+Toyota Alphard 2.5A S C-Package Moonroof,184888,1830,97838,1,28360,06 Apr 18 ,5yrs 7mths left,5,7,67,Carro
+Toyota Rav4 2.0A Premium,158888,1285,17862,1,16880,28 Jan 21 ,8yrs 4mths left,8,4,100,Carro
+Toyota Rush 1.5A X (COE till 11/2027),54888,680,141028,4,10470,04 Feb 08 ,5yrs 2mths left,5,2,62,Carro
+Toyota C-HR Hybrid 1.8A S,88888,1000,50327,2,14440,27 Jun 18 ,5yrs 9mths left,5,9,69,Carro
+Toyota 86 2.0M (COE till 07/2032),178888,1446,86581,3,18120,02 May 13 ,9yrs 10mths left,9,10,118,Carro
+Toyota Harrier 2.0A Premium Panoramic Roof,93888,1445,71866,2,16960,20 Oct 16 ,4yrs 1mths left,4,1,49,Carro
+Toyota Harrier 2.0A Premium Panoramic Roof,104888,1300,95823,2,17130,16 Nov 17 ,5yrs 2mths left,5,2,62,Carro
+Toyota Corolla Altis 1.6A Standard,88888,896,47036,1,12040,27 Mar 19 ,6yrs 6mths left,6,6,78,Carro
+Toyota Harrier 2.0A Premium Panoramic Roof,89126,1455,96244,4,19200,07 Jul 16 ,3yrs 10mths left,3,10,46,Carro
+Toyota Estima 2.4A Aeras Premium,94888,1581,65226,3,19750,24 Jun 16 ,3yrs 9mths left,3,9,45,Carro
+Toyota Wish 1.8A X (COE till 03/2029),94007,947,364586,2,14300,14 Aug 09 ,6yrs 6mths left,6,6,78,Carro
+Toyota Corolla Altis 1.6A Standard,104715,998,34004,1,13680,23 Aug 19 ,6yrs 11mths left,6,11,83,Carro
+Toyota C-HR Hybrid 1.8A S,86888,1004,56445,2,14540,20 Apr 18 ,5yrs 7mths left,5,7,67,Carro
+Toyota Vios 1.5A E,93888,886,22213,1,10610,03 Nov 20 ,8yrs 1mths left,8,1,97,Carro
+Toyota Vios 1.5A E,93888,886,22361,1,10610,03 Nov 20 ,8yrs 1mths left,8,1,97,Carro
+Volkswagen Jetta GP 1.4A TSI,65888,995,31726,2,12930,30 Nov 16 ,4yrs 2mths left,4,2,50,Carro
+Volkswagen Jetta GP 1.4A TSI,55888,1040,93854,1,13350,11 Jan 16 ,3yrs 4mths left,3,4,40,Carro
+Volkswagen Polo 1.0A TSI Comfortline (OPC),102888,971,11006,1,10330,08 Oct 21 ,9yrs 1mths left,9,1,109,Carro
+Volkswagen Golf GTI 2.0A,110888,1739,81363,3,22470,23 Sep 16 ,4yrs left,4,0,48,Carro
+Volkswagen Passat 1.8A TFSI,125888,1018,31358,2,14680,24 Feb 20 ,7yrs 5mths left,7,5,89,Carro
+Volkswagen Golf 1.2A TSI,72888,903,88412,1,13170,24 Nov 17 ,5yrs 2mths left,5,2,62,Carro
+Volkswagen Polo 1.4A (COE till 07/2030),77888,735,72595,3,9850,17 Aug 10 ,7yrs 10mths left,7,10,94,Carro
+Volkswagen Scirocco GP 1.4A TSI,79888,1143,76000,3,15330,27 Feb 17 ,4yrs 5mths left,4,5,53,Carro
+Volkswagen Golf GTI 5DR (COE till 01/2029),74888,772,245605,4,11680,12 Feb 09 ,6yrs 4mths left,6,4,76,Carro
+Volkswagen Scirocco GP 1.4A TSI,82888,1075,101733,3,14760,25 Aug 17 ,4yrs 11mths left,4,11,59,Carro
+Volkswagen Scirocco GP 1.4A TSI,72888,1081,81765,3,14690,28 Dec 16 ,4yrs 3mths left,4,3,51,Carro
+Volkswagen Passat 2.0A TSI Business,168888,1366,24396,1,17830,26 Mar 21 ,8yrs 6mths left,8,6,102,Carro
+Volkswagen Jetta GP 1.4A TSI Highline,65888,943,153910,2,12170,27 Feb 17 ,4yrs 5mths left,4,5,53,Carro
+Volkswagen T-Cross 1.0A TSI R-Line,141888,1339,22242,1,14770,29 Jun 21 ,8yrs 9mths left,8,9,105,Carro
+Volkswagen Jetta 1.4A TSI,38888,921,91346,1,12970,27 Apr 15 ,2yrs 7mths left,2,7,31,Carro
+Volkswagen Jetta 1.4A TSI,34888,881,152869,2,12430,11 Feb 15 ,2yrs 5mths left,2,5,29,Carro
+Volkswagen Tiguan 1.4A TSI BMT Panoramic Roof,66388,1364,33531,2,17010,16 Sep 15 ,3yrs left,3,0,36,Carro
+Volkswagen Golf 1.0A TSI Trendline,73888,865,103400,1,11680,14 Mar 18 ,5yrs 6mths left,5,6,66,Carro
+Volkswagen Touran 1.4A TSI (COE till 04/2031),73888,697,210245,3,8530,06 Jul 11 ,8yrs 7mths left,8,7,103,Carro
+Volkswagen Golf 1.2A TSI,50888,1019,86645,3,14890,29 Oct 15 ,3yrs 1mths left,3,1,37,Carro
+Volkswagen Golf 1.4A TSI,16888,0,234000,1,13891,24 Apr 12 ,4mths left,0,4,4,Carro
+Volkswagen Passat 2.0A TSI R-Line,123888,1149,38113,1,17120,22 May 18 ,5yrs 8mths left,5,8,68,Carro
+Volkswagen Golf 1.4A TSI Comfortline,97888,924,31000,2,11840,15 Oct 19 ,7yrs 1mths left,7,1,85,Carro
+Volkswagen Golf 1.4A TSI,52888,961,90269,2,13180,27 Oct 15 ,3yrs 1mths left,3,1,37,Carro
+Volvo XC60 T5 R-Design Sunroof,96388,1793,161846,3,21940,12 Jan 16 ,3yrs 4mths left,3,4,40,Carro
+Volvo XC60 T6 R-Design Panoramic Roof,184888,1544,35337,1,23060,14 Jun 19 ,6yrs 9mths left,6,9,81,Carro
+Volvo S60 Diesel D2,49888,1113,143204,3,15380,24 Jun 15 ,2yrs 9mths left,2,9,33,Carro
+Volvo V40 Cross Country T4,29888,2648,110050,4,19050,22 May 13 ,8mths left,0,8,8,Carro
+Volvo S60 T4 Momentum,154888,1252,43000,1,18490,26 Dec 19 ,7yrs 3mths left,7,3,87,Carro
+Volvo XC60 T5 2.0A,94888,1725,96604,3,21360,01 Mar 16 ,3yrs 5mths left,3,5,41,Carro
+Volvo S60 Diesel D2,41888,1321,194856,3,17080,06 Aug 14 ,1yrs 11mths left,1,11,23,Carro
+Volvo V40 T2,65888,1054,41000,1,14210,23 Aug 16 ,3yrs 11mths left,3,11,47,Carro
+Volvo V40 T2,66888,957,92993,1,12790,16 Feb 17 ,4yrs 5mths left,4,5,53,Carro
+Volvo V90 T5 Momentum,124888,1756,37000,2,22390,23 Mar 17 ,4yrs 6mths left,4,6,54,Carro
+Volvo S60 T4,21388,14996,161933,2,18159,30 May 12 ,3mths left,0,3,3,Carro
+Volvo V40 T2,99057,1228,41503,1,16960,11 Aug 17 ,4yrs 11mths left,4,11,59,Carro
+Volvo XC60 T5 2.0A,98888,1391,81246,1,17050,17 Oct 16 ,4yrs 1mths left,4,1,49,Carro
+Volvo XC60 T5 2.0A,104888,1300,48517,1,16170,28 Apr 17 ,4yrs 7mths left,4,7,55,Carro
+Volvo XC60 T6 R-Design,235536,1904,18414,1,24490,09 Sep 20 ,8yrs left,8,0,96,Carro
+Volvo XC40 T4 R-Design,172888,1398,3635,1,16890,10 May 21 ,8yrs 8mths left,8,8,104,Carro
+Volvo XC40 T4 Momentum,178088,1698,2419,1,23680,25 Oct 18 ,6yrs 1mths left,6,1,73,Carro
+Volvo XC40 T5 Momentum,117000,1179,50438,1,15750,25 Apr 18 ,5yrs 7mths left,5,7,67,Carro
+Volvo S60 T4,33888,0,140000,2,0,05 Apr 12 ,5mths left,0,5,5,Carro
+Volvo S60 D2,49888,0,100000,2,0,30 Sep 14 ,2yrs left,2,0,24,Carro
+Volvo V40 T2 (a),61800,0,72000,1,0,29 Jun 16 ,3yrs 9mths left,3,9,45,Carro
